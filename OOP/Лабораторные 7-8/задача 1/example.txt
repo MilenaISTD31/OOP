@@ -1,0 +1,1 @@
+Object-oriented programming is one of the key concepts in modern information technology. When writing code, it is important not only to structure the program correctly, but also to be able to apply the principles of such as encapsulation, inheritance and polymorphism. Mastery of these principles allows you to create effective and easily supported software products. 
